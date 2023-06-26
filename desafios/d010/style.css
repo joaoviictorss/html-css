@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: Letra de robozin;
+    src: url(fontes/idroid.otf) format(opentyper);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin: 0px;
+    background-color: bisque;
+}
+
+header {
+    font-family: Letra de robozin;
+    background-image: linear-gradient(to top, #00420e,#78997f);
+    padding:9px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+}
+
+nav {
+    text-align: left;
+    
+}
+
+nav > a {
+    color: rgb(184, 216, 186);
+    margin-left: 7px;
+    text-decoration: none;
+}
+ nav > a:hover {
+    background-color: rgba(184, 216, 186, 0.548);
+    border-radius: 2px;
+ }
+
+ main {
+    background-color: white;
+    width: 900px;
+    margin: auto;
+    border-radius: 0px 0px 5px 5px;
+    box-shadow: 3px 4px 7px 1px rgba(0, 0, 0, 0.26);
+ }
+
+ article {
+    text-indent: 20px;
+    padding: 10px 20px;
+ }
+
+ article > h1{
+    margin: 0px;
+    text-indent: 10px;
+    color: #00420e;
+ }
+
+ article > h2{
+    background-image: linear-gradient(to right, #46e666b7,white);
+    color: #00420e;
+ }
+
+ article > p > a {
+    text-decoration: none;
+    background-color: #46e666b7;
+    padding: 2px;
+ }
+
+article > p > a:hover{
+    text-decoration: underline;
+}
+
+#imagem-android-humano {
+    text-align: center;
+}
+
+#video{
+    background-color: #00420e;
+    margin: auto;
+    padding: 40px 0px;
+}
+
+#final{
+    background-color: #78997f;
+    margin: 30px 10px;
+    padding: 0px 0px 4px 0px;
+    border-radius: 5px;
+    box-shadow: 3px 4px 7px 1px rgba(0, 0, 0, 0.26);
+    text-indent: 20px;
+}
+
+#final > h2{
+    background-color: #00420e;
+    border-radius: 5px 5px 0px 0px;
+    padding: 3px 0px;
+    color: white;
+}
+
+footer{
+    background-color: #00420e;
+    color: white;
+    margin: auto;
+    text-align: center;
+    
+}
+
+ 
