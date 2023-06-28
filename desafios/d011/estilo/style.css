@@ -90,6 +90,7 @@ footer {
   text-align: center;
   padding: 15px;
   font-family: var(--fonte-padrão);
+  background-color: black;
 }
 
 footer a {
