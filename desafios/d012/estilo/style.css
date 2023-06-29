@@ -65,6 +65,7 @@ main {
 }
 
 .fundo {
+  background-color: black;
   color: white;
   background-size: cover;
   background-attachment: fixed;
@@ -74,11 +75,11 @@ main {
 }
 
 #girasol {
-  background-image: url(/desafios/d011/imagens/background001.jpg);
+  background-image: url(/desafios/d012/imagens/background001.jpg);
 }
 
 #livro {
-  background-image: url(/desafios/d011/imagens/background002.jpg);
+  background-image: url(/desafios/d012/imagens/background002.jpg);
 }
 
 .fundo > p {
