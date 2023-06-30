@@ -75,11 +75,11 @@ main {
 }
 
 #girasol {
-  background-image: url(/desafios/d012/imagens/background001.jpg);
+  background-image: url('../imagens/background001.jpg');
 }
 
 #livro {
-  background-image: url(/desafios/d012/imagens/background002.jpg);
+  background-image: url('../imagens/background002.jpg');
 }
 
 .fundo > p {
