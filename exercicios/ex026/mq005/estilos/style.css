@@ -7,13 +7,19 @@
         text-align: left;
     }
     
-    header nav ul{
-        display: 
+    header nav{
+        display: block
     }
 
-    header nav ul a{
-        margin:0px ;
+
+    nav ul li{
+        display: inline-block;
+        margin: 0px ;
         border-top: solid 2px gray;
+    }
+
+    nav ul li a{
+        margin: 0px;
     }
 
     main{
