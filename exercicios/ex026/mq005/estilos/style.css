@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@media screen and (min-width:768px) {
+    
+
+    header nav{
+        text-align: left;
+    }
+    
+    header nav ul{
+        display: 
+    }
+
+    header nav ul a{
+        margin:0px ;
+        border-top: solid 2px gray;
+    }
+
+    main{
+        margin: auto;
+        margin-top: 10px;
+        max-width: 768px;
+    }
+    
+    
+
+
+    #menu{
+        display: none;
+    }
+}
